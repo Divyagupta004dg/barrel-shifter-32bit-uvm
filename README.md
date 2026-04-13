@@ -26,7 +26,7 @@ A 32-bit combinational barrel shifter with complete UVM-based functional verific
 
 ## UVM Testbench Architecture
 
-![TB Architecture](<img width="1091" height="918" alt="image" src="https://github.com/user-attachments/assets/26dc3bc5-a10b-40fb-968a-9b96d265adc3" />)
+<img width="1091" height="918" alt="image" src="https://github.com/user-attachments/assets/26dc3bc5-a10b-40fb-968a-9b96d265adc3" />
 
 
 The testbench follows standard UVM layered architecture:
