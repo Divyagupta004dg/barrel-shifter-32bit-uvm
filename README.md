@@ -26,7 +26,8 @@ A 32-bit combinational barrel shifter with complete UVM-based functional verific
 
 ## UVM Testbench Architecture
 
-![TB Architecture](sim/tb_arch.png)
+<img width="1091" height="918" alt="image" src="https://github.com/user-attachments/assets/26dc3bc5-a10b-40fb-968a-9b96d265adc3" />
+
 
 The testbench follows standard UVM layered architecture:
 
@@ -131,3 +132,5 @@ The testbench follows standard UVM layered architecture:
 **Why cross coverage?** Individual coverpoints only confirm that shift=31 was tested and RIGHT direction was tested separately. Cross coverage confirms they were tested together — which is the critical corner case.
 
 **Why 100% coverage does not mean bug-free?** Coverage confirms scenarios were exercised. Bugs are caught by scoreboard comparison and assertions — these work together for complete verification.
+
+Coverage confirms scenarios were exercised. Bugs are caught by scoreboard comparison and assertions — these work together for complete verification.
