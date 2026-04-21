@@ -145,4 +145,5 @@ Coverage confirms scenarios were exercised. Bugs are caught by scoreboard compar
 **Why cross coverage?** Individual coverpoints only confirm that shift=31 was tested and RIGHT direction was tested separately. Cross coverage confirms they were tested together — which is the critical corner case.
 
 **Why 100% coverage does not mean bug-free?** Coverage confirms scenarios were exercised. Bugs are caught by scoreboard comparison and assertions — these work together for complete verification.
+hy 100% coverage does not mean bug-free?** Coverage confirms scenarios were exercised. Bugs are caught by scoreboard comparison and assertions — these work together for complete verification
 
