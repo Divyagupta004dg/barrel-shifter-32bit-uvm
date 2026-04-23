@@ -148,3 +148,4 @@ Coverage confirms scenarios were exercised. Bugs are caught by scoreboard compar
 hy 100% coverage does not mean bug-free?** Coverage confirms scenarios were exercised. Bugs are caught by scoreboard comparison and assertions — these work together for complete verification
 
 hhhhy 100% coverage does not mean bug-free?** Coverage confirms scenarios were exercised. Bugs are caught by scoreboard comparison and assertions — these work together for complete verification
+100% coverage does not mean bug-free?** Coverage confirms scenarios were exercised. Bugs are caught by scoreboard comparison and assertions — these work together for complete verification
