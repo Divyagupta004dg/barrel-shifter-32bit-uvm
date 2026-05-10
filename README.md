@@ -2,7 +2,7 @@
 
 **Designer:** Divya Gupta | EE-VLSI | JIIT Noida (23118049)
 **Simulator:** Cadence Xcelium 25.03 | UVM 1.2
-**EDA Playground:** https://www.edaplayground.com/x/aYTT
+**EDA Playground:** https://www.edaplayground.com/x/ZJGk
 
 ---
 
